@@ -12,3 +12,4 @@ das grüne Dreieck um das Projekt in eurem Emulator zu starten.
 Mache einen Fork dieses Repositories, clone es bei dir lokal, mache
 deine Änderungen und pushe sie zu Github, und stelle dann einen Pull-
 Request zu meinem Projekt.
+hallo Nick
