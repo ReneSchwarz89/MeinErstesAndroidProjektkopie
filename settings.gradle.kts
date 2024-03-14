@@ -21,4 +21,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "Mein Erstes Android Projekt"
 include(":app")
- 
+include(":mylibrary")
